@@ -13,9 +13,9 @@ client.on('ready', () => {
 
 client.on('ready', async() => {
 var server = "512532251850833934"; 
-var channel = "512559958756294656";
+var channel = "513312256789053441";
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('OmarIsBest')
+    client.guilds.get(server).channels.get(channel).send('OmarIsBest_OmarisBestOmarIsBest_OmarisBestOmarIsBest_OmarisBestOmarIsBest_OmarisBestOmarIsBest_OmarisBest')
     },305);
 })
 
